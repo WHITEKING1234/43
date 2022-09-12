@@ -9,3 +9,10 @@ import Foundation
 
 print("Hello, World!")
 
+
+
+func printname(){
+    print("My name nadik")
+}
+print("roziev")
+
