@@ -15,4 +15,8 @@ func printname(){
     print("My name nadik")
 }
 print("roziev")
+print("akbar")
+print("25")
+
+
 
